@@ -1,0 +1,17 @@
+{
+  "name": "mangoose-opr",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start" : "nodemon app.js"
+  },
+  "author": "anto",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mangodb": "^1.0.0",
+    "mongoose": "^6.0.7",
+    "nodemon": "^2.0.12"
+  }
+}
