@@ -81,8 +81,8 @@ exports.sentemail = async (req, res) => {
         port: 587,
         secure: false,
         auth: {
-            user: 'programmeranto@gmail.com',
-            pass: 'jjfamily',
+            user: '<username>',
+            pass: '<passwod>',
         },
     });
 
