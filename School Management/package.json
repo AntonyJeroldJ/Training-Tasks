@@ -6,7 +6,7 @@
     "test": "mocha",
     "start": "node server.js"
   },
-  "author": "Tamilselvan",
+  "author": "Antony_Jerold",
   "license": "ISC",
   "dependencies": {
     "compression": "^1.7.4",
